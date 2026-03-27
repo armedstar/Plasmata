@@ -48,8 +48,8 @@ Designed for organic movement and evolving tones
 Build from source (CMake)
 
 1. Clone this repository:
-   git clone https://github.com/YOUR_USERNAME/plasmata.git
-   cd plasmata
+   git clone https://github.com/armedstar/Plasmata.git
+   cd Plasmata
 
 2. Point CMake to your Rack SDK location (if needed):
    export RACK_DIR=/path/to/Rack-SDK
@@ -66,6 +66,10 @@ Build from source (CMake)
 ----------------------------------------------------------------------------------
 
 *-Module-*
+
+<p align="center">
+  <img src="images/plasmata-panel.png" alt="Plasmata panel" width="350" />
+</p>
 
 ----------------------------------------------------------------------------------
 
