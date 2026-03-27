@@ -1,0 +1,12 @@
+build/
+bin/
+*.dylib
+*.so
+*.dll
+*.o
+*.a
+.DS_Store
+*.swp
+*.swo
+*~
+

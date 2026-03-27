@@ -1,0 +1,21 @@
+{
+	"slug": "VCO-Noise-Delay",
+	"name": "Plasmata",
+	"version": "2.0.0",
+	"license": "MIT",
+	"author": "Your Name",
+	"brand": "",
+	"authorEmail": "",
+	"pluginUrl": "",
+	"manualUrl": "",
+	"sourceUrl": "",
+	"donateUrl": "",
+	"modules": [
+		{
+			"slug": "VCONoiseDelay",
+			"name": "Plasmata",
+			"description": "Oscillator with noise modulation and delay.",
+			"tags": ["VCO", "Noise", "Delay"]
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"slug": "VCO-Noise-Delay",
+	"name": "Plasmata",
+	"version": "1.0.0",
+	"license": "MIT",
+	"author": "Your Name",
+	"brand": "",
+	"authorEmail": "",
+	"pluginUrl": "",
+	"manualUrl": "",
+	"sourceUrl": "",
+	"donateUrl": "",
+	"modules": [
+		{
+			"slug": "VCONoiseDelay",
+			"name": "Plasmata",
+			"description": "Selectable noise types with delay.",
+			"tags": ["VCO", "Noise", "Delay"]
+		}
+	]
+}
+
