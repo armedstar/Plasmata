@@ -21,7 +21,7 @@ P L A S M A T A is an oscillator with a noise modulation system designed around 
 
 xx Distorted perception xx
 
-Signal, noise, and time interact to produce evolving, unstable, and living textures.
+Signal, noise, and time interact to produce living textures.
 
 ----------------------------------------------------------------------------------
 
